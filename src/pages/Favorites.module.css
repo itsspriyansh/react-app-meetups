@@ -1,0 +1,7 @@
+.nh p {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    color: gray;
+}
+
